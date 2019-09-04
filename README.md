@@ -12,7 +12,7 @@
 
 ## About The Project
 
-![frenetic][frenetic-logo](https://www.freneticgame.com/)
+![frenetic][frenetic-logo]
 
 ## Getting Started
 

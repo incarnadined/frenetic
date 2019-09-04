@@ -183,8 +183,6 @@ def checkWord():
 
 def main():
     checkWord()
-    tkinter.Button(window, text = "Check").pack()
-    window.mainloop()
     
 if __name__ == '__main__':
     main()

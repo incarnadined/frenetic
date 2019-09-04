@@ -49,5 +49,5 @@ Any contributions you make or propose are **greatly appreciated**.
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-[product-screenshot]: images/logo.png
+[frenetic-logo]: images/logo.png
 [banana]: images/banana.png

@@ -20,7 +20,7 @@
  
 1. Clone the repo
 ```sh
-git clone https:://github.com/incarnadined/frenetic.git
+git clone https://github.com/incarnadined/frenetic.git
 ```
 
 ## Usage

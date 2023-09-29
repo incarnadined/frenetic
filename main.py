@@ -179,7 +179,13 @@ def checkWord():
     except TypeError:
         pass
     
-    print(final+' is worth '+str(points)+' points')
+    if len(final) == len(word):
+    
+        print(final+' is worth '+str(points)+' points')
+        
+    else:
+        
+        print('This word can\'t be made from the elements')
 
 def main():
     checkWord()
